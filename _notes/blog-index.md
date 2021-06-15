@@ -1,0 +1,12 @@
+---
+---
+- [[Engineering Mathematics]]
+- [[Discrete Mathematics]]
+- [[Theory of Computation]]
+- [[Compiler Design]]
+- [[Operating System]]
+- [[Computer Networks]]
+- [[Database Management Systems]]
+- [[Data Structures]]
+- [[Algorithms]]
+- [[Sources]]

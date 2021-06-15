@@ -1,0 +1,4 @@
+---
+---
+- Calculus: [Khan Academy](https://www.khanacademy.org/)
+- Discrete Mathematics: [Discrete Mathematics and Its Applications by Kenneth Rosen](https://books.google.co.in/books/about/Discrete_Mathematics_and_Its_Application.html?id=T_K9tgEACAAJ&source=kp_book_description&redir_esc=y)

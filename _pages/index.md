@@ -5,17 +5,19 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hi, I'm Avnish
+
+I am an **Open Source Developer** and **Engineering Student** specializing in Information Technology. My interests are Data Analytics, Machine Learning, and Mathematics.
+
+Learn more about me [here](../_pages/about.md). Download my [resume](../assets/resume.pdf).
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  If you want to read my blogs <span style="font-weight: bold">[[Blog Index]]</span> is a good place to start.
+  Source material of these blogs are listed in <span style="font-weight: bold">[[Sources]]</span>.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+If you find this blog helpful [consider buying me a coffee]()! ☕️
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
-
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
 
 <style>
   .wrapper {
