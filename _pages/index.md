@@ -19,7 +19,7 @@ Learn more about me [here](../_pages/about.md). Download my [resume](../assets/r
 
 If you find this blog helpful [consider buying me a coffee]()! ☕️
 
-
+Want to create a similar web page? Check [this](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) awesome tutorial by Maxime Vaillancourt.
 <style>
   .wrapper {
     max-width: 46em;
