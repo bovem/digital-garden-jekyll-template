@@ -50,7 +50,8 @@
               inlineMath: [ ['$','$'], ["\\(","\\)"] ],
               displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
               processEscapes: true
-            }
+            },
+            "CommonHTML": { linebreaks: { automatic: true } }
           });
           MathJax.Hub.Register.StartupHook("TeX AMSmath Ready", function () {
             MathJax.InputJax.TeX.Stack.Item.AMSarray.Augment({
@@ -63,6 +64,7 @@
           });
       </script>
       <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+      <script src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     {% endif %}
 
   <title>
